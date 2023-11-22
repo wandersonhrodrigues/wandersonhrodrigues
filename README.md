@@ -32,6 +32,8 @@
 
 #### Experiência Profissional:
 
+Abaixo deixo um breve resumo da minha Experiência Profissional, para mais detalhes fique a vontade para acessar meu [LinkedIn](https://www.linkedin.com/in/wandersonrodriguespro/)
+
 <br>
 
 [<img align="left" height="94px" width="94px" alt="logo free" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/freelancer_2.png"/>](https://www.uzzipay.com/)
