@@ -10,6 +10,21 @@
 
 ##
 
+#### Atualmente estudo sobre as seguintes tecnologias:
+
+
+[<img height="48px" width="48px" alt="Icone Html" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-html.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-css.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-js.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone React" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-react.svg"/>](https://pt-br.react.dev)
+
+##
+
+### Ferramentas que utilizo no dia a dia:
+
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-vs_code.svg"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-gtihub.svg"/>](https://github.com/)
+
 Contato :
 
 <a target="_blank" src="https://www.linkedin.com/in/wandersonrodriguespro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a target="_blank" href="mailto:wanderson.rodrigues.central@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
