@@ -1,7 +1,7 @@
 ### Hello World 👋 👨‍💻
 ##
 
-### Me chamo Wanderson e é uma satisfação te encontrar aqui no GitHub. <img src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/img-note.png?raw=true" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### Me chamo Wanderson e é uma satisfação te encontrar aqui no GitHub. <img src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/img-note.png?raw=true" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - Sou de Santa Barbara d'Oeste/SP
 - Apaixonado por Tecnologia
@@ -13,19 +13,19 @@
 #### Atualmente estudo sobre as seguintes tecnologias:
 
 
-[<img height="48px" width="48px" alt="Icone Html" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/readme/img/icon-html.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone CSS" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-css.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-js.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone React" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-react.svg"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Html" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-html.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-css.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-js.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone React" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-react.svg"/>](https://pt-br.react.dev)
 
 ##
 
 ### Ferramentas que utilizo no dia a dia:
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-vs_code.svg"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Figma" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-figma.svg"/>](https://www.figma.com)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-gtihub.svg"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-vs_code.svg"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-figma.svg"/>](https://www.figma.com)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-gtihub.svg"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-git.svg"/>](https://git-scm.com)
 
 
 ##
@@ -36,7 +36,7 @@ Abaixo deixo um breve resumo da minha Experiência Profissional, para mais detal
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="logo free" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/freelancer_2.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="logo free" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/freelancer_2.png"/>](https://www.uzzipay.com/)
 **Desenvolvedor Front-End**\
 **Freelancer** • Full-time \
 Responsável por criar plataformas personalizadas e funcionais.\
@@ -44,7 +44,7 @@ Competências: `HTML`, `CSS`, `JS`
 
 ##
 
-[<img align="left" height="94px" width="94px" alt="logo autonomo" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/autonomo.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="logo autonomo" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/autonomo.png"/>](https://www.uzzipay.com/)
 **Desenvolvedor Wordpress**\
 **Autônomo** • Full-time \
 Especialista no desenvolvimento de sites e e-commerce utilizando WordPress + Elementor.\
@@ -54,7 +54,7 @@ Competências: `WordPress`, `Elementor`, `WooCommerce`, `HTML`, `CSS`
 
 #### Formação Profissional:
 
-[<img align="left" height="94px" width="94px" alt="logo devclub" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/logo_devClub.jpeg"/>](https://rodolfomori.com.br/devclub/)
+[<img align="left" height="94px" width="94px" alt="logo devclub" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/logo_devClub.jpeg"/>](https://rodolfomori.com.br/devclub/)
 **Desenvolvedor FullStack** \
 [**DevClub**](https://rodolfomori.com.br/devclub/) \
 Ainda em estudo*\
