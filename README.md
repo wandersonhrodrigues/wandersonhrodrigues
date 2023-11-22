@@ -1,11 +1,14 @@
-### Olá 👨‍💻
+### Hello World 👋 👨‍💻
+##
 
+### Me chamo Wanderson e é uma satisfação te encontrar aqui no GitHub. <img src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/img-note.png?raw=true" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Me chamo Wanderson tenho 39 anos, sou um profissional apaixonado por tecnologia!
+- Sou de Santa Barbara d'Oeste/SP
+- Apaixonado por Tecnologia
+- Estudande de desenvolvimento Front-End
+- Aqui costumo reunir todos os projetos em que já trabalhei e ou estou trabalhando.
 
-Aqui costumo reunir todos os projetos em que já trabalhei e ou estou trabalhando.
-
-<br>
+##
 
 Contato :
 
