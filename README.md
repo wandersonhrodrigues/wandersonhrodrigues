@@ -13,7 +13,7 @@
 #### Atualmente estudo sobre as seguintes tecnologias:
 
 
-[<img height="48px" width="48px" alt="Icone Html" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-html.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone Html" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/readme/img/icon-html.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-css.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-js.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone React" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/icon-react.svg"/>](https://pt-br.react.dev)
