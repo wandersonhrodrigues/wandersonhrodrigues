@@ -32,12 +32,35 @@
 
 #### Experiência Profissional:
 
-Resumo de experiência mais recente:
+<br>
 
+[<img align="left" height="94px" width="94px" alt="logo free" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/freelancer_2.png"/>](https://www.uzzipay.com/)
+**Desenvolvedor Front-End**\
+**Freelancer** • Full-time \
+Responsável por criar plataformas personalizadas e funcionais.\
+Competências: `HTML`, `CSS`, `JS`
 
 ##
 
-Contato :
+[<img align="left" height="94px" width="94px" alt="logo autonomo" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/autonomo.png"/>](https://www.uzzipay.com/)
+**Desenvolvedor Wordpress**\
+**Autônomo** • Full-time \
+Especialista no desenvolvimento de sites e e-commerce utilizando WordPress + Elementor.\
+Competências: `WordPress`, `Elementor`, `WooCommerce`, `HTML`, `CSS`
+
+##
+
+#### Formação Profissional:
+
+[<img align="left" height="94px" width="94px" alt="logo devclub" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/Projetos/readme/img/logo_devClub.jpeg"/>](https://rodolfomori.com.br/devclub/)
+**Desenvolvedor FullStack** \
+[**DevClub**](https://rodolfomori.com.br/devclub/) \
+Ainda em estudo*\
+Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`, `TypeScript`, `React.js`, `Node.js`
+
+##
+
+### Entre Em Contato :
 
 <a target="_blank" src="https://www.linkedin.com/in/wandersonrodriguespro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a target="_blank" href="mailto:wanderson.rodrigues.central@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
