@@ -17,6 +17,7 @@
 [<img height="48px" width="48px" alt="Icone CSS" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-css.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-js.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone React" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/icon-react.svg"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone React" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/vite-svgrepo-com.svg"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone React" src="https://github.com/wandersonrodriguespro/portifolio/blob/main/projetos/img-readme/node-js.svg"/>](https://pt-br.react.dev)
 
 ##
